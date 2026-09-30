@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.haengdong.hiphop",
+      "sha256_cert_fingerprints": [
+        "CA:11:13:59:01:15:EA:F3:AF:48:73:6B:F8:48:B2:5C:4A:92:A3:90:3B:A3:31:C6:AB:45:94:17:65:BE:86:C4"
+      ]
+    }
+  }
+]
